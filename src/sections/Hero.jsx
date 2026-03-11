@@ -93,7 +93,7 @@ const Hero = () => {
 
             {/* Hero description */}
             <p className="text-muted-foreground max-w-xl mx-auto lg:mx-0">
-              I am a Solution Architect Engineer with a background in Electrical and Electronic Engineering, 
+              I am a helooooo Solution Architect Engineer with a background in Electrical and Electronic Engineering, 
               currently developing web-based data dashboards for industrial monitoring systems.
             </p>
             <p className="text-muted-foreground max-w-xl mx-auto lg:mx-0">
