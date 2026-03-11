@@ -47,7 +47,7 @@ const Hero = () => {
             <div className="rounded-full glow-border p-1">
               <div className="w-48 h-48 rounded-full overflow-hidden glass">
                 <img
-                  src="/ProfilePicture.jpeg"
+                  src={`${import.meta.env.BASE_URL}ProfilePicture.jpeg`}
                   alt="Soong Shin Ee profile picture"
                   className="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
                 />
