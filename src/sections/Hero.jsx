@@ -65,7 +65,7 @@ const Hero = () => {
               <span className=" text-muted-foreground">Follow: </span>
               {[
                 {icon: Linkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/shin-ee-soong-1007a7254/"},
-                {icon: Github, label: "Github", href: "#"},
+                {icon: Github, label: "Github", href: "https://github.com/soongshinee"},
               ].map((social, idx) => (
                 <a 
                   key = {idx} 
