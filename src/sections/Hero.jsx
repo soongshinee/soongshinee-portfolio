@@ -19,7 +19,6 @@ const Hero = () => {
 
   return (
     <section className="relative min-h-screen flex items-center overflow-hidden">
-      
       {/* Animated background layer */}
       {/* pointer-events-none: dots ignore mouse interactions */}
       {/* Dots move through animation in a line (slow-drift animation) at different durations*/}
@@ -84,7 +83,7 @@ const Hero = () => {
             <div className="flex gap-3 justify-center lg:justify-start">
               <span className="inline-flex items-center gap-2 px-4 py-2 rounded-full glass text-sm text-primary w-fit">
                 <span className="w-2 h-2 bg-primary rounded-full"></span>
-                Solution Architect Engineer
+                TEST Solution Architect Engineer
               </span>
               <span className="inline-flex items-center gap-2 px-4 py-2 rounded-full glass text-sm text-primary w-fit">
                 <span className="w-2 h-2 bg-primary rounded-full"></span>
