@@ -1,6 +1,6 @@
 import React, {useMemo} from 'react'
 import {Download, Linkedin, Github} from "lucide-react";
-import profilePic from "../assets/ProfilePicture.jpeg";
+import profilePic from "../assets/profile-picture.jpeg";
 
 const Hero = () => {
 
