@@ -1,5 +1,6 @@
 import React, {useMemo} from 'react'
 import {Download, Linkedin, Github} from "lucide-react";
+import profilePic from "../assets/ProfilePicture.jpeg";
 
 const Hero = () => {
 
@@ -47,7 +48,7 @@ const Hero = () => {
             <div className="rounded-full glow-border p-1">
               <div className="w-48 h-48 rounded-full overflow-hidden glass">
                 <img
-                  src={`${import.meta.env.BASE_URL}ProfilePicture.jpeg`}
+                  src={profilePic}
                   alt="Soong Shin Ee profile picture"
                   className="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
                 />
