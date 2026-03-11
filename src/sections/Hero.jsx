@@ -83,7 +83,7 @@ const Hero = () => {
             <div className="flex gap-3 justify-center lg:justify-start">
               <span className="inline-flex items-center gap-2 px-4 py-2 rounded-full glass text-sm text-primary w-fit">
                 <span className="w-2 h-2 bg-primary rounded-full"></span>
-                TEST Solution Architect Engineer
+                Solution Architect Engineer
               </span>
               <span className="inline-flex items-center gap-2 px-4 py-2 rounded-full glass text-sm text-primary w-fit">
                 <span className="w-2 h-2 bg-primary rounded-full"></span>
@@ -93,7 +93,7 @@ const Hero = () => {
 
             {/* Hero description */}
             <p className="text-muted-foreground max-w-xl mx-auto lg:mx-0">
-              I am a helooooo Solution Architect Engineer with a background in Electrical and Electronic Engineering, 
+              I am a Solution Architect Engineer with a background in Electrical and Electronic Engineering, 
               currently developing web-based data dashboards for industrial monitoring systems.
             </p>
             <p className="text-muted-foreground max-w-xl mx-auto lg:mx-0">
