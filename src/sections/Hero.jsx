@@ -84,7 +84,7 @@ const Hero = () => {
             <div className="flex gap-3 justify-center lg:justify-start">
               <span className="inline-flex items-center gap-2 px-4 py-2 rounded-full glass text-sm text-primary w-fit">
                 <span className="w-2 h-2 bg-primary rounded-full"></span>
-                Solution Architect Engineer
+                Software Engineer
               </span>
               <span className="inline-flex items-center gap-2 px-4 py-2 rounded-full glass text-sm text-primary w-fit">
                 <span className="w-2 h-2 bg-primary rounded-full"></span>
