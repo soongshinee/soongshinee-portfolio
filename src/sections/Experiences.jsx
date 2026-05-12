@@ -7,14 +7,14 @@ const experiences = [
     role: "Software Engineer",
     company: "PC Group",
     description:
-      "Designed and developed web-based industrial monitoring dashboard using Ignition Perspective.",
+      "Specialized in real-time industrial dashboards and data-driven user interfaces. Experienced in designing and building responsive web applications using React, JavaScript, HTML, CSS, and MSSQL integration. Strong foundation in system design and automation, with a focus on developing scalable and intuitive frontend solutions for data visualization and monitoring systems",
   },
   {
     period: "November 2023 - December 2024",
     role: "System and Project Engineer",
     company: "PC Group",
     description:
-      "Designed and implemented control systems including PLC/SCADA and system architecture.",
+      "Experienced in industrial automation, PLC/SCADA systems, and real-time monitoring solutions. Involved in the design and implementation of data-driven dashboards, modular UI components, and scalable system architectures. Strong background in translating operational requirements into reliable technical solutions, with exposure to scripting, data integration, and end-to-end project delivery",
   },
 ];
 
