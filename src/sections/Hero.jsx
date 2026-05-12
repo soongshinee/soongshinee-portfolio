@@ -19,7 +19,7 @@ const Hero = () => {
   }, []);
 
   return (
-    <section className="relative min-h-screen flex items-center overflow-hidden">
+    <section id="about" className="relative min-h-screen flex items-center overflow-hidden">
       {/* Animated background layer */}
       {/* pointer-events-none: dots ignore mouse interactions */}
       {/* Dots move through animation in a line (slow-drift animation) at different durations*/}
