@@ -5,14 +5,14 @@ const experiences = [
   {
     period: "January 2025 - Present",
     role: "Software Engineer",
-    company: "Pro Cahaya Industries Sdn Bhd",
+    company: "PC Group",
     description:
       "Designed and developed web-based industrial monitoring dashboard using Ignition Perspective.",
   },
   {
     period: "November 2023 - December 2024",
     role: "System and Project Engineer",
-    company: "Pro Cahaya Industries Sdn Bhd",
+    company: "PC Group",
     description:
       "Designed and implemented control systems including PLC/SCADA and system architecture.",
   },
